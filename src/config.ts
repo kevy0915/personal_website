@@ -190,6 +190,6 @@ export const EXPERIENCE: ExpereinceItem[] = [
 
 export const LIVE_URL = "https://www.sasuke.dev/";
 
-export const TITLE = "James Kano | Sasuke - Frontend and Web3 Developer";
+export const TITLE = "Rahmat Thamrin | Windi";
 export const DESCRIPTION =
   "Accomplished Blockchain and Fullstack Developer with over 10 years of experience designing and optimizing high-performance decentralized applications (dApps) and scalable blockchain solutions. Specialized in building on Solana and Ethereum ecosystems with expertise in smart contract development using Solidity, Rust, and Web3.js.";
