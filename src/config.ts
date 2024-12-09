@@ -13,6 +13,28 @@ export const SEO_DOCUMENT = [
 ];
 export const EXPERIENCE: ExpereinceItem[] = [
   {
+    thumb: "/projects/prnt.png",
+    role: "Solana Web3 Frontend Developer",
+    from: "03/2022",
+    to: "03/2022",
+    description:
+      "Built a Token Launchpad using Next.js and Web3.js, enabling projects to list tokens and users to participate in early sales with staking and reward systems.",
+    stack: "Web3, Next.js",
+    url: "https://www.prnthub.com/",
+    category: "web3",
+  },
+  {
+    thumb: "/projects/dayProtocal.png",
+    role: "Web3 Developer",
+    from: "08/2021",
+    to: "08/2021",
+    description:
+      "Developed a Trading Bot using Next.js and Web3.js that automates cryptocurrency trading, leveraging market analysis and predefined strategies for profit optimization.",
+    stack: "Rust, Next.js",
+    url: "https://dayprotocol.ai/",
+    category: "Rust, Next.js",
+  },
+  {
     thumb: "/projects/pl.png",
     hoverThumb: "/projects/pl.gif",
     role: "Solana Full-stack Developer",
@@ -93,17 +115,6 @@ export const EXPERIENCE: ExpereinceItem[] = [
     category: "web3, e-commerce",
   },
   {
-    thumb: "/projects/project-10.webp",
-    role: "Solana Web3 Frontend Developer",
-    from: "03/2022",
-    to: "03/2022",
-    description:
-      "SAGC Landing page. I made the Landing page with Next.js an Web3.js. Introducing roadmaps, staking, bootcamps, webshops, and more.",
-    stack: "Web3, Next.js",
-    url: "https://www.shreddedapes.io/",
-    category: "web3",
-  },
-  {
     thumb: "/projects/project-8.webp",
     role: "Solana Fullstack Developer",
     from: "02/2022",
@@ -164,32 +175,21 @@ export const EXPERIENCE: ExpereinceItem[] = [
   //   url: "https://mausoleum.tombstoned.xyz/",
   //   category: "web3",
   // },
-  {
-    thumb: "/projects/project-3.webp",
-    role: "Frontend/Web3 Developer",
-    from: "10/2021",
-    to: "11/2021",
-    description:
-      "Vethugs.com is based on the VeChain and uses the token called VET. I built it with React.js and Sync Wallet - Desktop wallet. The client needed daily updates and I could make a perfect result.",
-    stack: "Solidity, Web3, Next.js",
-    url: "https://www.vethugs.com/",
-    category: "web3",
-  },
-  {
-    thumb: "/projects/project-6.webp",
-    role: "Web3 Developer",
-    from: "08/2021",
-    to: "08/2021",
-    description:
-      "In this project, I modified some components of this site. This project was coded by Shopify. I worked on the internet to add Web3 functions in this code and fixed 12 bugs.",
-    stack: "Web3, Shopify",
-    url: "https://wooshi.world/",
-    category: "web3, e-commerce",
-  },
+  // {
+  //   thumb: "/projects/project-3.webp",
+  //   role: "Frontend/Web3 Developer",
+  //   from: "10/2021",
+  //   to: "11/2021",
+  //   description:
+  //     "Vethugs.com is based on the VeChain and uses the token called VET. I built it with React.js and Sync Wallet - Desktop wallet. The client needed daily updates and I could make a perfect result.",
+  //   stack: "Solidity, Web3, Next.js",
+  //   url: "https://www.vethugs.com/",
+  //   category: "web3",
+  // },
 ];
 
 export const LIVE_URL = "https://www.sasuke.dev/";
 
 export const TITLE = "James Kano | Sasuke - Frontend and Web3 Developer";
 export const DESCRIPTION =
-  "Results-driven Frontend and Web3 Developer with 9+ years of experience in frontend development and expertise in Web3 technologies. Offering a strong background in GitHub open source contributions, Solana projects, Web3 games, coinflip, minesweeper, NFT minting, landing page development, and pixel-perfect design using Figma. Seeking opportunities to contribute technical prowess and innovative solutions to dynamic projects.";
+  "Accomplished Blockchain and Fullstack Developer with over 10 years of experience designing and optimizing high-performance decentralized applications (dApps) and scalable blockchain solutions. Specialized in building on Solana and Ethereum ecosystems with expertise in smart contract development using Solidity, Rust, and Web3.js.";

@@ -28,21 +28,30 @@ export default Employment;
 
 const emplyments = [
   {
-    role: "Moduluc | Senior Frontend and Web3 Developer | Part-time Contract",
-    from: "Feb 2021",
-    to: "Jan 2024",
+    role: "Persol Process & Technology | Senior Blockchain Developer | US(Remote)",
+    from: "Jul 2021",
+    to: "Oct 2024",
     description: [
       {
         title:
-          "Engineered the frontend for corporate websites, including https://moduluc.com, https://airia.xyz, and https://aus.airia.xyz.",
+          "Designed and developed blockchain-based supply chain solutions on Ethereum and Solana, enabling transparency and traceability of goods through decentralized ledgers.",
       },
       {
         title:
-          "Led the AiriA collection to a total volume of 16.4K SOL (approx. 600K USD) on MagicEden.",
+          "Built and deployed smart contracts for tokenization of assets and automated compliance checks using Solidity and Rust.",
       },
       {
-        title: "Achieved an exceptional user base growth from 50K to 200M.",
+        title: "Integrated blockchain technology with IoT devices for secure, real-time data sharing in decentralized networks.",
       },
+      {
+        title: "Conducted in-depth vulnerability assessments on 20+ smart contracts, implementing robust security measures that reduced incident response time by 60% and ensured compliance with industry standards."
+      },
+      {
+        title: "Collaborated with stakeholders to define technical requirements and implement blockchain strategies aligned with business goals."
+      },
+      {
+        title: "Led the optimization of transaction throughput and gas efficiency, improving network performance by 30%."
+      }
     ],
     stack: [
       { title: "React" },
@@ -54,19 +63,24 @@ const emplyments = [
     ],
   },
   {
-    role: "Shredded Apes (SAGC) | Head Frontend Developer | Part-time",
-    from: "Aug 2022",
-    to: "Present",
+    role: "Red Badger | Senior Full Stack and Blockchain Developer | UK(Remote)",
+    from: "Jun 2019",
+    to: "Jun 2021",
     description: [
       {
         title:
-          "Directed the development and management of SAGC company websites, shreddedapes.io, and shreddedapes.shop.",
+          "Developed scalable backend systems for decentralized applications (dApps) using Node.js, Go, and Ruby on Rails, processing over 10,000 daily blockchain transactions.",
       },
       {
         title:
-          "Contributed to a cumulative SAGC collection value of 47K SOL (approx. 1.2M USD) on the marketplace.",
+          "Revitalized and optimized legacy smart contracts, reducing gas costs by 25% and enhancing performance for on-chain computations.",
       },
-      { title: "Facilitated expansion of $WHEY holders to 20K+." },
+      { title: 
+        "Automated deployment pipelines for Solana and Ethereum nodes using Docker and Kubernetes, cutting release times by 30% and ensuring 99.9% node uptime." 
+      },
+      {
+        title: "Collaborated with cross-functional teams to deliver blockchain projects 15% ahead of schedule, aligning with client expectations and improving efficiency."
+      }
     ],
     stack: [
       { title: "Solana" },
@@ -78,21 +92,21 @@ const emplyments = [
     ],
   },
   {
-    role: "SolanaShuffle | Senior Full-stack Developer | Full-time",
-    from: "Jan 2022",
-    to: "April 2023",
+    role: "Traveloka | Full Stack Developer | Jakarta, Indonesia",
+    from: "Mar 2016",
+    to: "May 2019",
     description: [
       {
         title:
-          "Pioneered the development and management of the SolanaShuffle website (https://solanashuffle.com)",
+          "Built and deployed full-stack applications using Node.js and Go for backend and React and Vue.js for frontend, supporting 15,000+ daily transactions.",
       },
       {
         title:
-          "Introduced captivating games such as jackpot, tower, and coin-flip, generating over 200K dollars in casino revenue.",
+          "Created and optimized RESTful APIs, improving data processing speed by 15% and reducing API response time by 25%, leading to better system performance.",
       },
       {
         title:
-          "Created a user-centric website that enhanced the overall experience.",
+          "Teamed with frontend engineers to enhance user interface components, boosting engagement by 20% and reducing bounce rates by 15%.",
       },
     ],
     stack: [
@@ -104,4 +118,27 @@ const emplyments = [
       { title: "SCSS" },
     ],
   },
+  {
+    role: "Tokopedia | Junior Full Stack Developer | Jakarta, Indonesia",
+    from: "Jan 2014",
+    to: "Feb 2016",
+    description: [
+      {
+        title:
+          "Assisted in developing web applications using Ruby on Rails and JavaScript frameworks, focusing on RESTful API development and database schema design.",
+      },
+      {
+        title:
+          "Contributed to development sprints, improving code quality through unit testing, reducing bugs by 15% during QA.",
+      },
+    ],
+    stack: [
+      { title: "GoLang" },
+      { title: "React" },
+      { title: "Redux" },
+      { title: "GraphQL" },
+      { title: "Tailwind CSS" },
+      { title: "SCSS" },
+    ],
+  }
 ];

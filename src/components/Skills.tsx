@@ -4,11 +4,11 @@ import { SectionTitle } from "./StyledComponent";
 
 const SKILLS_DATA = [
   {
-    name: "Web3",
+    name: "Solana",
     level: 99,
   },
   {
-    name: "React.js",
+    name: "Rust",
     level: 99,
   },
   {
@@ -28,11 +28,11 @@ const SKILLS_DATA = [
     level: 99,
   },
   {
-    name: "Solana",
+    name: "Web3",
     level: 99,
   },
   {
-    name: "Rust",
+    name: "React.js",
     level: 80,
   },
   {

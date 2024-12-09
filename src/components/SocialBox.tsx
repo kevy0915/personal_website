@@ -15,13 +15,13 @@ const SocialBox: FC = () => {
           <TwitterIcon />
         </div>
       </Link> */}
-      <Link href="https://github.com/spmoe" passHref target="_blank">
+      <Link href="https://github.com/windi917" passHref target="_blank">
         <div className="grid w-10 h-10 p-2 rounded-md place-content-center shadow-item dark:shadow-none dark:bg-white">
           <GithubIcon />
         </div>
       </Link>
       <Link
-        href="https://discord.com/users/920984371425579029"
+        href="https://discord.com/users/151348435352682496"
         passHref
         target="_blank"
       >
@@ -29,7 +29,7 @@ const SocialBox: FC = () => {
           <DiscordHIcon />
         </div>
       </Link>
-      <Link href="https://t.me/sasuke310" passHref target="_blank">
+      <Link href="https://t.me/Windi817" passHref target="_blank">
         <div className="grid w-10 h-10 p-2 rounded-md place-content-center shadow-item dark:shadow-none dark:bg-white">
           <TelegramHIcon />
         </div>

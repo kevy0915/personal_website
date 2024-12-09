@@ -30,7 +30,7 @@ const AboutMe: FC = () => {
           <h2 className="font-bold text-[28px] md:text-[32px] py-2.5 text-gray-800 dark:text-white">
             Hi, I&apos;m{" "}
             <span className="text-purple-800 dark:text-purple-500">
-              {"James Kano"}
+              {"Rahmat Thamrin"}
             </span>
             , &nbsp;<span>a</span>&nbsp;
             <Type />
@@ -38,24 +38,20 @@ const AboutMe: FC = () => {
           <h2 className="text-gray-800 dark:text-gray-300 font-bold text-xl w-full flex items-center gap-2">
             just call me{" "}
             <span className="text-purple-800 dark:text-purple-500 font-bold flex items-center gap-1">
-              Sasuke <NinjaIcon />
+              Windi <NinjaIcon />
             </span>
           </h2>
           {/*           <div className="text-white font-bold text-md bg-purple-700 inline-block py-0.5 px-4 rounded-3xl my-3">
             # Open to work
           </div> */}
           <p className="text-[14px] md:text-[16px] text-gray-800 dark:text-gray-200 font-medium max-w-[600px]">
-            Results-driven Frontend and Web3 Developer with{" "}
+            Accomplished Blockchain and Fullstack Developer with over  {" "}
             <span className="text-purple-800 dark:text-purple-500 font-bold">
-              9+ years
+              10 years
             </span>{" "}
-            of experience in frontend development and expertise in{" "}
-            <span className="text-purple-800 dark:text-purple-500 font-bold">
-              Web3
-            </span>{" "}
-            technologies, seeking opportunities to contribute technical prowess
-            and innovative solutions to dynamic projects.
+            of experience designing and optimizing high-performance decentralized applications (dApps) and scalable blockchain solutions. Specialized in building on Solana and Ethereum ecosystems with expertise in smart contract development using Solidity, Rust, and Web3.js.
           </p>
+
           <div className="mt-10 best-skill">
             <p className="text-gray-800 dark:!text-gray-500 font-semibold mb-2">
               BEST SKILL ON
